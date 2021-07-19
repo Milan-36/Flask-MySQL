@@ -6,3 +6,6 @@ This is Homework 4 of IS 601. This project is about to setup Pycharm with Docker
 
 ## 1. Postman Screenshot:
 ![postman request output]()
+
+## 2. SQL Database Screenshot:
+![pycharm data query](screenshots/citiesData_Table.png)
