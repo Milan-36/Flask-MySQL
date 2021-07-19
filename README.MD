@@ -8,4 +8,4 @@ This is Homework 4 of IS 601. This project is about to setup Pycharm with Docker
 ![postman request output]()
 
 ## 2. SQL Database Screenshot:
-![pycharm data query](screenshots/citiesData_Table.png)
+![pycharm data query](screenshots/citiesData_Table.png.png)
